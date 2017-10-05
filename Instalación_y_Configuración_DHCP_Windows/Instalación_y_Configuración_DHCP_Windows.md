@@ -45,6 +45,15 @@ Proseguimos con la creación de un segundo ámbito y le asignamos el intervalo, 
 
 ![imagen](./images/10.png)
 
+Comprobamos si la asignacion de IP es correcta desactivando el primer ámbito para confirmar que el segundo es quien asigna la dirección:
+
+![imagen](./images/amb1desactivado.png)
+
+![imagen](./images/usandoamb2.png)
+
+![imagen](./images/10.png)
+
+
 
 En éste caso se le asigna la IP correspondida con la dirección MAC indicada en la reserva:
 
@@ -59,3 +68,8 @@ Una vez creado los dos ámbito, procedemos a crear un superámbito que englobe l
 Le ponemos nombre al superámbito. En éste caso “Superamb1”.
 
 ![imagen](./images/12.png)
+
+
+En éste caso se le asigna la IP correspondida con la dirección MAC indicada en la reserva:
+
+![imagen](./images/fin.png)
