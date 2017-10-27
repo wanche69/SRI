@@ -54,8 +54,10 @@ Una vez realizados todos los registros comprobamos:
 ![img](./images/7comprobacionservicios.png)
 -----
 
+Creamos los enlaces CNAME Y MX:
+
 Seguimos con la validación de un cliente y la comprobación de éste haciendo uso del comando `nslookup`:
 
-![img](./images/8_validar_cliente.png)
+![img](./images/99.png)
 
 ![img](./images/9_comprobacion.png)
